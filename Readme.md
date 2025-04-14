@@ -4,7 +4,7 @@
 This project aims to predict the probability of a patient having diabetes based on relevant medical records. The dataset used comes from the National Institute of Diabetes and Digestive and Kidney Diseases and focuses on Pima Indian women aged 21 and older. Predicting diabetes early can help in preventive healthcare and improve patient outcomes.
 
 ## Objective
-The main objective is to build a machine learning model that can diagnose diabetes based on diagnostic measurements. The model will be trained on a dataset containing several medical predictor variables, such as the number of pregnancies, BMI, insulin level, and age.
+The main objective is to build a machine learning model to diagnose diabetes based on diagnostic measurements. The model will be trained on a dataset containing several medical predictor variables, such as the number of pregnancies, BMI, insulin level, and age.
 
 ## Dataset Information
 - **Source**: National Institute of Diabetes and Digestive and Kidney Diseases
