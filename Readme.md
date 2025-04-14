@@ -30,7 +30,7 @@ The main objective is to build a machine learning model to diagnose diabetes bas
 - Document findings and results
 
 Stay tuned for updates as we refine our models and improve performance!
-
+```plaintext
 diabetes-predictor/
 │
 ├── app/                              # 🖥️ App files (for deployment / interface)
@@ -63,6 +63,6 @@ diabetes-predictor/
 ├── requirements.txt                  # 📦 Python dependencies list
 ├── README.md                         # 📖 Project documentation
 ├── .gitignore                        # 🚫 Files/folders to be ignored by Git
-
+```
 
 
